@@ -1,0 +1,18 @@
+---
+title:       404
+created_at:  2008-08-02 14:06:40.000000 -06:00
+filter:
+  - erb
+---
+
+<div align="center">
+	<p><a href="http://spitfiresky.com"><img src="/images/logo.png" /></a></p>
+	
+	<h2>We changed our name to <strong><a href="http://spitfiresky.com">Spitfire Sky</a></strong>.</h2>
+	
+	<p>Please visit <a href="http://spitfiresky.com">http://spitfiresky.com</a>.</p>
+	
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
+	<p><img src="/images/townhallwebdesign.gif" width="120"/></p>
+</div>
